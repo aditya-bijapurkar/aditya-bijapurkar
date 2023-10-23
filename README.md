@@ -5,12 +5,12 @@
   
 - 🌱 I’m currently learning **Solidity/ Web3**
 
+- 🧑‍💻 Check me out on **Leetcode** [https://leetcode.com/adityabijapurkar/](https://leetcode.com/adityabijapurkar/)
+
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **adityabijapurkar@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1reB6Aoy4jELZ2O0kJ_ksS8HLCe3_h7gp/view?usp=share_link](https://drive.google.com/file/d/1reB6Aoy4jELZ2O0kJ_ksS8HLCe3_h7gp/view?usp=share_link)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cout_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cout_aditya" height="30" width="40" /></a>
