@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Bijapurkar</h1>
 <h3 align="center">Fullstack developer from India</h3>
 
-- 🚀 Im a **Fullstack web developer**
+- 🚀 Im a **Fullstack web developer and Machine Learning engineer**
   
 - 🌱 I’m currently learning **Solidity/ Web3**
 
