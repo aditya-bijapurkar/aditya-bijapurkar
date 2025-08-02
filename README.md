@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Aditya Bijapurkar</h1>
 <h3 align="center">Fullstack developer from India</h3>
 
+- 🧑‍💻 Check out my **portfolio website** [https://adityabijapurkar.in/](https://adityabijapurkar.in/)
 
-- 💻 I'm a **competitive coder** in C++.
+- 💻 I'm a **competitive coder** having solved over 1000 problems.
 
-- 🚀 I'm a **Fullstack web developer and Machine Learning engineer**
+- 🚀 I'm a **Fullstack Web Developer also having Infrastucture management experience**
    
-- 🌱 I’m currently learning **Solidity/ Web3**
+- 🌱 I’m currently working as a **SDE 1 (backend) at AiDash**
 
 - 🧑‍💻 Check me out on **Leetcode** [https://leetcode.com/adityabijapurkar/](https://leetcode.com/adityabijapurkar/)
 
@@ -16,6 +17,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://adityabijapurkar.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spring.svg" alt="cout_aditya" height="30" width="40" /></a>
 <a href="https://twitter.com/cout_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cout_aditya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-bijapurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-bijapurkar" height="30" width="40" /></a>
 <a href="https://instagram.com/cout_adityabijapurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cout_adityabijapurkar" height="30" width="40" /></a>
