@@ -17,7 +17,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://adityabijapurkar.in" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/spring.svg" alt="website" height="30" width="40" /></a>
+<a href="https://adityabijapurkar.in" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/myspace-alt.svg" alt="website" height="30" width="40" /></a>
 <a href="https://twitter.com/cout_aditya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cout_aditya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-bijapurkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-bijapurkar" height="30" width="40" /></a>
 <a href="https://instagram.com/cout_adityabijapurkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cout_adityabijapurkar" height="30" width="40" /></a>
