@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Bijapurkar</h1>
 <h3 align="center">Fullstack developer from India</h3>
 
-- 🧑‍💻 Check out my **portfolio website** [https://adityabijapurkar.in/](https://adityabijapurkar.in/)
+- 🧑‍💻 Check out my **portfolio website** [https://www.adityabijapurkar.in/](https://www.adityabijapurkar.in/)
 
 - 💻 I'm a **competitive coder** having solved over 1000 problems.
 
